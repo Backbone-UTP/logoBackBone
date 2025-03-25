@@ -1,6 +1,6 @@
 # Logo e Icono BackBone
 
-Este repositorio contiene los recursos oficiales de logo e icono para el proyecto comunitario BackBone. Los recursos están disponibles en múltiples formatos y estilos para adaptarse a diversos casos de uso.
+Este repositorio contiene los recursos oficiales de logo e icono para la comunidad y semillero de investigación Backbone. Los recursos están disponibles en múltiples formatos y estilos para adaptarse a diversos casos de uso.
 
 ## Recursos Disponibles
 
@@ -21,7 +21,7 @@ Versiones simplificadas solo del icono, adecuadas para favicons, iconos de aplic
 
 ### Recursos de Logo (Logo/)
 
-Versiones completas del logo con texto, adecuadas para encabezados, documentación y materiales de marketing.
+Versiones completas del logo con texto en formato horizonal, adecuadas para encabezados, documentación y materiales de marketing.
 
 - **Estilo Filled (Relleno)**
 
@@ -86,7 +86,7 @@ Damos la bienvenida a contribuciones para mejorar nuestros recursos de marca. Po
 
 Al crear o modificar recursos, por favor adhiérase a lo siguiente:
 
-- Mantenga la identidad visual central de la marca BackBone
+- Mantenga la identidad visual central de la marca Backbone
 - Asegúrese de que los recursos estén optimizados para sus casos de uso previstos
 - Siga prácticas de diseño estándar para accesibilidad y visibilidad
 - Pruebe los recursos tanto en fondos claros como oscuros
